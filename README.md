@@ -1,1 +1,1 @@
-# Creating todo-project using Quasar Framework
+Creating todo-project using Quasar Framework
